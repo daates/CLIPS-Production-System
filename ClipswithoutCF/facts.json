@@ -1,0 +1,262 @@
+{
+  "facts": [
+    { "id": "f1", "name": "интерес к программированию", "category": "axiom" },
+    { "id": "f2", "name": "интерес к данным и аналитике", "category": "axiom" },
+    {
+      "id": "f3",
+      "name": "интерес к администрированию и сетям",
+      "category": "axiom"
+    },
+    {
+      "id": "f4",
+      "name": "интерес к дизайну и визуальному оформлению",
+      "category": "axiom"
+    },
+    {
+      "id": "f5",
+      "name": "интерес к бизнесу и предпринимательству",
+      "category": "axiom"
+    },
+    { "id": "f6", "name": "интерес к помощи людям", "category": "axiom" },
+    { "id": "f7", "name": "интерес к обучению других", "category": "axiom" },
+    {
+      "id": "f8",
+      "name": "интерес к маркетингу и продвижению",
+      "category": "axiom"
+    },
+    { "id": "f9", "name": "интерес к кибербезопасности", "category": "axiom" },
+    {
+      "id": "f10",
+      "name": "интерес к науке и исследованиям",
+      "category": "axiom"
+    },
+    {
+      "id": "f11",
+      "name": "интерес к автоматизации процессов",
+      "category": "axiom"
+    },
+    {
+      "id": "f12",
+      "name": "интерес к мобильным технологиям",
+      "category": "axiom"
+    },
+    { "id": "f13", "name": "интерес к веб-технологиям", "category": "axiom" },
+    { "id": "f14", "name": "интерес к играм и геймдеву", "category": "axiom" },
+    {
+      "id": "f15",
+      "name": "интерес к искусственному интеллекту",
+      "category": "axiom"
+    },
+
+    { "id": "f16", "name": "логическое мышление", "category": "axiom" },
+    { "id": "f17", "name": "креативное мышление", "category": "axiom" },
+    {
+      "id": "f18",
+      "name": "усидчивость и внимательность",
+      "category": "axiom"
+    },
+    { "id": "f19", "name": "коммуникабельность", "category": "axiom" },
+    { "id": "f20", "name": "организаторские способности", "category": "axiom" },
+    {
+      "id": "f21",
+      "name": "склонность к командной работе",
+      "category": "axiom"
+    },
+    { "id": "f22", "name": "самодисциплина", "category": "axiom" },
+    { "id": "f23", "name": "стрессоустойчивость", "category": "axiom" },
+    {
+      "id": "f24",
+      "name": "уверенное владение компьютером",
+      "category": "axiom"
+    },
+    { "id": "f25", "name": "знание английского языка", "category": "axiom" },
+    { "id": "f26", "name": "математические способности", "category": "axiom" },
+    { "id": "f27", "name": "аналитический склад ума", "category": "axiom" },
+    { "id": "f28", "name": "склонность к самообучению", "category": "axiom" },
+    { "id": "f29", "name": "терпеливость", "category": "axiom" },
+    { "id": "f30", "name": "перфекционизм", "category": "axiom" },
+
+    { "id": "f31", "name": "техническая склонность", "category": "tendency" },
+    { "id": "f32", "name": "аналитическая склонность", "category": "tendency" },
+    { "id": "f33", "name": "творческая склонность", "category": "tendency" },
+    {
+      "id": "f34",
+      "name": "управленческая склонность",
+      "category": "tendency"
+    },
+    {
+      "id": "f35",
+      "name": "коммуникативная склонность",
+      "category": "tendency"
+    },
+    {
+      "id": "f36",
+      "name": "исследовательская склонность",
+      "category": "tendency"
+    },
+    {
+      "id": "f37",
+      "name": "предпринимательская склонность",
+      "category": "tendency"
+    },
+    {
+      "id": "f38",
+      "name": "педагогическая склонность",
+      "category": "tendency"
+    },
+
+    {
+      "id": "f39",
+      "name": "базовые навыки программирования",
+      "category": "skill"
+    },
+    {
+      "id": "f40",
+      "name": "базовые навыки работы с данными",
+      "category": "skill"
+    },
+    {
+      "id": "f41",
+      "name": "базовые навыки администрирования",
+      "category": "skill"
+    },
+    { "id": "f42", "name": "базовые навыки дизайна", "category": "skill" },
+    { "id": "f43", "name": "базовые навыки управления", "category": "skill" },
+    { "id": "f44", "name": "базовые навыки коммуникации", "category": "skill" },
+    { "id": "f45", "name": "базовые навыки анализа", "category": "skill" },
+    { "id": "f46", "name": "базовые навыки безопасности", "category": "skill" },
+    {
+      "id": "f47",
+      "name": "базовые навыки веб-разработки",
+      "category": "skill"
+    },
+    {
+      "id": "f48",
+      "name": "базовые навыки мобильной разработки",
+      "category": "skill"
+    },
+
+    {
+      "id": "f49",
+      "name": "специализация backend-разработка",
+      "category": "specialization"
+    },
+    {
+      "id": "f50",
+      "name": "специализация frontend-разработка",
+      "category": "specialization"
+    },
+    {
+      "id": "f51",
+      "name": "специализация fullstack-разработка",
+      "category": "specialization"
+    },
+    {
+      "id": "f52",
+      "name": "специализация data science",
+      "category": "specialization"
+    },
+    {
+      "id": "f53",
+      "name": "специализация DevOps",
+      "category": "specialization"
+    },
+    {
+      "id": "f54",
+      "name": "специализация информационная безопасность",
+      "category": "specialization"
+    },
+    {
+      "id": "f55",
+      "name": "специализация UX/UI дизайн",
+      "category": "specialization"
+    },
+    {
+      "id": "f56",
+      "name": "специализация управление проектами",
+      "category": "specialization"
+    },
+    {
+      "id": "f57",
+      "name": "специализация системный анализ",
+      "category": "specialization"
+    },
+    {
+      "id": "f58",
+      "name": "специализация машинное обучение",
+      "category": "specialization"
+    },
+    {
+      "id": "f59",
+      "name": "специализация мобильная разработка",
+      "category": "specialization"
+    },
+    {
+      "id": "f60",
+      "name": "специализация геймдев",
+      "category": "specialization"
+    },
+
+    {
+      "id": "f61",
+      "name": "профиль серверный разработчик",
+      "category": "profile"
+    },
+    { "id": "f62", "name": "профиль веб-разработчик", "category": "profile" },
+    { "id": "f63", "name": "профиль аналитик данных", "category": "profile" },
+    { "id": "f64", "name": "профиль инженер DevOps", "category": "profile" },
+    { "id": "f65", "name": "профиль специалист по ИБ", "category": "profile" },
+    {
+      "id": "f66",
+      "name": "профиль дизайнер интерфейсов",
+      "category": "profile"
+    },
+    { "id": "f67", "name": "профиль менеджер проектов", "category": "profile" },
+    {
+      "id": "f68",
+      "name": "профиль системный аналитик",
+      "category": "profile"
+    },
+    { "id": "f69", "name": "профиль ML-инженер", "category": "profile" },
+    {
+      "id": "f70",
+      "name": "профиль мобильный разработчик",
+      "category": "profile"
+    },
+    { "id": "f71", "name": "профиль разработчик игр", "category": "profile" },
+    {
+      "id": "f72",
+      "name": "профиль технический писатель",
+      "category": "profile"
+    },
+
+    { "id": "f73", "name": "направление Разработка ПО", "category": "goal" },
+    {
+      "id": "f74",
+      "name": "направление Аналитика и Data Science",
+      "category": "goal"
+    },
+    {
+      "id": "f75",
+      "name": "направление Инфраструктура и DevOps",
+      "category": "goal"
+    },
+    {
+      "id": "f76",
+      "name": "направление Информационная безопасность",
+      "category": "goal"
+    },
+    { "id": "f77", "name": "направление Дизайн и UX", "category": "goal" },
+    { "id": "f78", "name": "направление Управление в IT", "category": "goal" },
+    {
+      "id": "f79",
+      "name": "направление Игровая индустрия",
+      "category": "goal"
+    },
+    {
+      "id": "f80",
+      "name": "направление Искусственный интеллект",
+      "category": "goal"
+    }
+  ]
+}
